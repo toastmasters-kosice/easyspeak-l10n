@@ -60,7 +60,7 @@ $lang['Username'] = "Používateľské meno";
 $lang['Password'] = "Heslo";
 $lang['Email'] = "E-mail";
 $lang['Mail'] = "Pošta";
-$lang['Poster'] = "Postujúci";
+$lang['Poster'] = "Publikujúci";
 $lang['Author'] = "Autor";
 $lang['Time'] = "Čas";
 $lang['Hours'] = "Hodiny";
@@ -144,8 +144,8 @@ $lang['LinkedIn_explain'] = "Zadajte úplnú URL adresu vášho LinkedIn profilu
 $lang['Facebook_explain'] = "Zadajte úplnú URL adresu vášho Facebook profilu. BUĎ: <br>www.facebook.com/profile.php?id=1234567890<br>ALEBO: <br>www.facebook.com/vaše.meno";
 $lang['Forum_Index'] = "Register diskusií %s";  // eg. sitename Forum Index, %s can be removed if you prefer
 
-$lang['Post_new_topic'] = "Založiť novú tému";
-$lang['Post_new_event'] = "Vytvoriť nové podujatie";
+$lang['Post_new_topic'] = "Pridať novú tému";
+$lang['Post_new_event'] = "Pridať nové podujatie";
 $lang['Reply_to_topic'] = "Odpovedať na tému";
 $lang['Reply_with_quote'] = "Odpovedať citátom";
 
@@ -365,7 +365,7 @@ $lang['Rules_vote_can'] = "<b>Môžete</b> sa zúčastňovať hlasovaní v tomto
 $lang['Rules_vote_cannot'] = "<b>Nemôžete</b> sa zúčastňovať hlasovaní v tomto fóre.";
 $lang['Rules_moderate'] = "<b>Môžete</b> %smoderovať toto fórum%s"; // %s replaced by a href links, do not remove!
 
-$lang['No_topics_post_one'] = "V tomto fóre nie sú žiadne príspevky.<br />Kliknite na tejto stránke na odkaz <b>Založiť novú tému</b> a pridajte nejaký.";
+$lang['No_topics_post_one'] = "V tomto fóre nie sú žiadne príspevky.<br />Kliknite na tejto stránke na odkaz <b>Pridať novú tému</b> a pridajte nejaký.";
 
 //
 // Viewtopic
@@ -397,7 +397,7 @@ $lang['No_spam_email'] = "E-mailová adresa používateľa nám vracia naše spr
 $lang['Visit_website'] = "Navštíviť ich webstránku";
 $lang['ICQ_status'] = "Status ICQ";
 $lang['Edit_delete_post'] = "Upraviť/vymazať tento príspevok";
-$lang['View_IP'] = "Zobraziť IP adresu postujúceho";
+$lang['View_IP'] = "Zobraziť IP adresu publikujúceho";
 $lang['Delete_post'] = "Vymazať tento príspevok";
 $lang['Delete_event'] = "Vymazať toto podujatie";
 
@@ -437,10 +437,10 @@ $lang['Topic_review'] = "Preskúmanie témy";
 
 $lang['No_post_mode'] = "Nebol určený režim príspevku."; // If posting.php is called without a mode (newtopic/reply/delete/etc, shouldn't be shown normaly)
 
-$lang['Post_a_new_topic'] = "Založiť novú tému";
-$lang['Post_a_new_event'] = "Zverejniť nové podujatie";
+$lang['Post_a_new_topic'] = "Pridať novú tému";
+$lang['Post_a_new_event'] = "Pridať nové podujatie";
 $lang['Post_a_reply'] = "Odoslať odpoveď";
-$lang['Post_topic_as'] = "Založiť tému ako";
+$lang['Post_topic_as'] = "Pridať tému ako";
 $lang['Edit_Post'] = "Upraviť príspevok";
 $lang['Options'] = "Voľby";
 
@@ -465,16 +465,16 @@ $lang['Confirm_delete'] = "Skutočne chcete vymazať tento príspevok?";
 $lang['Confirm_delete_event'] = "Skutočne chcete vymazať toto podujatie?";
 $lang['Confirm_delete_poll'] = "Skutočne chcete vymazať toto hlasovanie?";
 
-$lang['Flood_Error'] = "Váš ďalší príspevok nemôžete zverejniť tak krátko po tom predošlom. Skúste to po chvíli opäť.";
-$lang['Empty_subject'] = "Keď zverejňujete novú tému, musíte zadať predmet.";
+$lang['Flood_Error'] = "Váš ďalší príspevok nemôžete pridať tak krátko po tom predošlom. Skúste to o chvíľu opäť.";
+$lang['Empty_subject'] = "Keď pridávate novú tému, musíte zadať predmet.";
 $lang['Empty_message'] = "Príspevok musí obsahovať správu.";
 $lang['No_date'] = "Musíte zadať dátum pre toto podujatie.";
-$lang['Forum_locked'] = "Toto fórum je uzamknuté: nemôžete zverejňovať príspevky, ani odpovedať na témy či ich upravovať.";
+$lang['Forum_locked'] = "Toto fórum je uzamknuté: nemôžete pridávať príspevky, ani odpovedať na témy či ich upravovať.";
 $lang['Topic_locked'] = "Táto téma je uzamknutá: nemôžete upravovať príspevky alebo na ne odpovedať.";
 $lang['No_post_id'] = "Musíte si vybrať príspevok, ktorý chcete upraviť.";
 $lang['No_role_id'] = "Musíte si vybrať rolu.";
 $lang['No_topic_id'] = "Musíte si vybrať tému, na ktorú chcete odpovedať.";
-$lang['No_valid_mode'] = "Môžete iba zverejňovať príspevky, odpovedať, upravovať, či citovať správy. Vráťte sa sem neskôr a skúste to opäť.";
+$lang['No_valid_mode'] = "Môžete iba pridávať príspevky, odpovedať, upravovať, či citovať správy. Vráťte sa sem neskôr a skúste to opäť.";
 $lang['No_such_post'] = "Takýto príspevok neexistuje. Vráťte sa späť a skúste to opäť.";
 $lang['Deleted_post'] = "Toto stretnutie alebo rola boli vymazané.";
 $lang['Edit_own_posts'] = "Prepáčte, ale môžete upravovať iba vaše vlastné príspevky.";
@@ -597,10 +597,10 @@ $lang['Private_Messaging'] = "Súkromné správy";
 $lang['Login_check_pm'] = "Prihláste sa, aby ste si pozreli súkromné správy.";
 $lang['New_pms'] = "%d nových správ"; // You have 2 new messages
 $lang['New_pm'] = "%d novú správu"; // You have 1 new message
-$lang['No_new_pm'] = "Žiadne nové správy.";
+$lang['No_new_pm'] = "Žiadne nové správy";
 $lang['Unread_pms'] = "%d neprečítaných správ";
 $lang['Unread_pm'] = "%d neprečítaná správa";
-$lang['No_unread_pm'] = "Žiadne neprečítané správy.";
+$lang['No_unread_pm'] = "Žiadne neprečítané správy";
 $lang['You_new_pm'] = "Vo vašej schránke na vás čaká nová súkromná správa.";
 $lang['You_new_pms'] = "Vo vašej schránke na vás čakajú nové súkromné správy.";
 $lang['You_no_new_pm'] = "Nečakajú na vás žiadne súkromné správy.";
@@ -719,7 +719,7 @@ $lang['Subdomain'] = "Hostovaná stránka";
 
 $lang['Interests'] = "Osobné informácie";
 $lang['Occupation'] = "Zamestnanie";
-$lang['Poster_rank'] = "Hodnosť postujúceho";
+$lang['Poster_rank'] = "Hodnosť publikujúceho";
 $lang['Member_rank'] = "Status";
 
 $lang['Total_posts'] = "Príspevkov celkovo";
@@ -744,7 +744,7 @@ $lang['Always_html'] = "Vždy povoliť HTML";
 $lang['Always_bbcode'] = "Vždy povoliť BBCode";
 $lang['Always_add_sig'] = "Vždy priložiť môj podpis";
 $lang['Always_notify'] = "Vždy mi dať vedieť o odpovediach";
-$lang['Always_notify_explain'] = "Ak niekto odpovie na tému, v ktorej prispievate, dostanete o tom e-mail. Môžete to kedykoľvek zmeniť pri zverejňovaní príspevku.";
+$lang['Always_notify_explain'] = "Ak niekto odpovie na tému, v ktorej prispievate, dostanete o tom e-mail. Môžete to kedykoľvek zmeniť počas pridávania príspevku.";
 
 $lang['Board_style'] = "Farebná schéma";
 $lang['Board_lang'] = "Jazyk nástenky";
