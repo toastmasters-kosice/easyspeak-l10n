@@ -60,7 +60,7 @@ $lang['Username'] = "Používateľské meno";
 $lang['Password'] = "Heslo";
 $lang['Email'] = "E-mail";
 $lang['Mail'] = "Pošta";
-$lang['Poster'] = "Publikujúci";
+$lang['Poster'] = "Autor príspevku";
 $lang['Author'] = "Autor";
 $lang['Time'] = "Čas";
 $lang['Hours'] = "Hodiny";
@@ -397,7 +397,7 @@ $lang['No_spam_email'] = "E-mailová adresa používateľa nám vracia naše spr
 $lang['Visit_website'] = "Navštíviť ich webstránku";
 $lang['ICQ_status'] = "Status ICQ";
 $lang['Edit_delete_post'] = "Upraviť/vymazať tento príspevok";
-$lang['View_IP'] = "Zobraziť IP adresu publikujúceho";
+$lang['View_IP'] = "Zobraziť IP adresu autora príspevku";
 $lang['Delete_post'] = "Vymazať tento príspevok";
 $lang['Delete_event'] = "Vymazať toto podujatie";
 
@@ -719,7 +719,7 @@ $lang['Subdomain'] = "Hostovaná stránka";
 
 $lang['Interests'] = "Osobné informácie";
 $lang['Occupation'] = "Zamestnanie";
-$lang['Poster_rank'] = "Hodnosť publikujúceho";
+$lang['Poster_rank'] = "Hodnosť autora príspevku";
 $lang['Member_rank'] = "Status";
 
 $lang['Total_posts'] = "Príspevkov celkovo";
