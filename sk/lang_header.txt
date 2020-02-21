@@ -1,0 +1,25 @@
+<?php
+/***************************************************************************
+*                            lang_header.txt [Slovak]
+*                              -------------------
+*
+****************************************************************************/
+
+if ( !defined('IN_PHPBB') )
+{
+die('Hacking attempt');
+}
+
+$lang['ENCODING'] = "utf-8";
+$lang['DIRECTION'] = "ltr";
+$lang['LEFT'] = "Doľava";
+$lang['RIGHT'] = "Doprava";
+//$lang['DATE_FORMAT'] = "d M Y";      //NTR This should be changed to the default date format for your language, php date() format
+$lang['COLON'] = ":";      //Space|Colon for French
+$lang['lang_code'] = "18";      //Enter the language code from constants file (used to lookup fixed text)
+$lang['Repeat_right'] = "";      //Enter a one here to have 'Speaker 1' and not '1st Speaker'
+
+$lang['DATE_SQL_FORMAT'] = "%e %M %Y";      //NTR This should be changed to the default date format for SQL for your language
+$lang['DATE_INPUT_FORMAT'] = "d/m/y";      //NTR Requires 'd', 'm', and 'y' and a punctuation delimiter, order can change
+
+
