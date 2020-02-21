@@ -1,0 +1,40 @@
+Line zero is not used
+The VPE may plan ahead and schedule speeches for several meetings at one time using the Schedule Speeches screen. 
+VPE, Meeting Manager - You may change the sequence of assigned Speakers or Evaluators etc by clicking on the blue/red arrow on the view_meeting screen. FOr example, clicking on the arrow for 1st Speaker will swap the assignments for 1st and 2nd Speaker.
+Members - You can see an overview of your Speech progress and set personal goals on the profile_cc screen (Left side navigation > My Participation > View my Speech Progress  OR  Menubar > My Participation > View my Speech Progress) 
+Members - You can see an overview of your Leadership progress on the profile_cl screen (Left side navigation > My Participation > View my CL|ALx Progress  OR  Menubar > My Participation > View my CL|ALx Progress) 
+Did you know that you can see several overview showing all members of your Club in the Member Charts? There are several available including: Communications, Leadership, Personal Goals, Mentoring.... (Menubar > This Club > [Select one] )
+When looking at the Club Charts you can move between the various charts and sort them by using the drop-down. You can also print the charts - for example the Communications Chart is good when working on the Club Success Plan or the Area Governor visit.
+If you are the mentor for another member you have additional access to view their progress on the Communications & Leadership Tracks. Look in the Member Charts and click on the edit or graph icon to see more.
+Members - Look at the records that the system has for your CL. If your progress is not correctly recorded you may edit it yourself by clicking on the role name. When you have it all corrected, take your CL manual along for your VPE to validate the system records.
+VPE, Meeting Manager - Print the 'Checklist' report just prior to the meeting. It will give you a list of people who could be evaluated for CL at this meeting. Have someone in your club delegated to check that this happens and mark the report so that you can use it when recording actuals for the meeting.
+Want to look at your recent role assignments? Click on the graph icon next to your name on the Userlist or Member Charts. If you click on that icon on the view_agenda screen it will give details for that meeting only - but while the pop-up is open you can select other views. 
+Is your personal data correct? Do you need to change phone or other information? Click on Menubar > Profile and look through to make sure it's all correct.
+Do you use Skype, LinkedIn, Facebook, Twitter, aboutMe, Yahoo! Messenger, MSN Messenger personally? It will be easier for others to get in touch if you add them in your profile. Click on Menubar > Profile, tick the Advanced Options box and look through to make sure it's all correct. 
+Does your Club have pages on Facebook, LinkedIn, Twitter, YouTube or Google+ ? Your VPE or IT Support should add them in the Club Control Panel so that they will be displayed on your club data page and portal pages and make it easy for people to follow you.
+Member Survey - Paul to enter words
+Member Survey - Paul to enter words
+VPE - Are you tracking progress for Competent Leader or Advanced Leader for all your members? Go to the Leadership Chart and click on the '+' icon to start tracking.
+Thinking about taking a vacation? Use the Sign-up screen to let your VPE know that you will be away for those meetings. You can also see a summary of the main roles there for several meetings in advance.
+Wondering what all the button do? Hover over them with your mouse and a tool-tip will generally tell you!
+VPE, Meeting Manager - need to see which members have roles? Click on the 'Show # of Roles' link on the view_meeting screen to change the display between number of roles for this meeting and date last attended.
+Think you might be late for a meeting or can't take a particular role? Leave a note for the VPE and Meeting Manager by clicking on the 'Edit Comments' link and typing a message.
+VPE, Meeting Manager - Wondering why a certain item won't print on the Summary agenda? Use the edit_agenda button and check the print settings for that item.
+Contest Time - Did you know that you can hide the names of Judges? Just make sure that you have the correct setting for that role in the Club Control Panel and the only people to see the names will be officers with permission to assign the roles for that meeting.
+Wondering why your regular Club meeting says 'Contest' at the top of the view_meeting screen? It's because the agenda includes a role that you have defined as 'Contest Only'. Vote Counter is a popular one to get wrong - if your club uses a Vote Couter at every meeting you should go into the Club Control Panel and change the role so that it is NOT 'Contest Only'
+What's the difference in presentation on the screen and printed agenda between a contest and a regular Club Meeting? Speech details are always hidden for a contest, so your club members may make a manual speech and have a written evaluation but the audience will never know that.
+The VPE may plan ahead and schedule speeches for several meetings at one time using the Schedule Speeches screen. 
+VPE, Meeting Manager - You may change the sequence of assigned Speakers or Evaluators etc by clicking on the blue/red arrow on the view_meeting screen. FOr example, clicking on the arrow for 1st Speaker will swap the assignments for 1st and 2nd Speaker.
+Members - You can see an overview of your Speech progress and set personal goals on the profile_cc screen (Left side navigation > My Participation > View my Speech Progress  OR  Menubar > My Participation > View my Speech Progress) 
+Members - You can see an overview of your Leadership progress on the profile_cl screen (Left side navigation > My Participation > View my CL|ALx Progress  OR  Menubar > My Participation > View my CL|ALx Progress) 
+Did you know that you can see several overview showing all members of your Club in the Member Charts? There are several available including: Communications, Leadership, Personal Goals, Mentoring.... (Menubar > This Club > [Select one] )
+When looking at the Club Charts you can move between the various charts and sort them by using the drop-down. You can also print the charts - for example the Communications Chart is good when working on the Club Success Plan or the Area Governor visit.
+If you are the mentor for another member you have additional access to view their progress on the Communications & Leadership Tracks. Look in the Member Charts and click on the edit or graph icon to see more.
+ 
+
+
+
+
+
+
+

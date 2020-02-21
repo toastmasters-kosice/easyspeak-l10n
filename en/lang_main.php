@@ -38,7 +38,7 @@ if ( !defined('IN_PHPBB') )
 //
 $lang['ENCODING'] = "utf-8";     //NTR
 
-$lang['lang_code'] = "18";      //Enter the language code from constants file (used to lookup fixed text)
+$lang['lang_code'] = "1";      //Enter the language code from constants file (used to lookup fixed text)
 
 
 $lang['junk']  = "JunkZ";
