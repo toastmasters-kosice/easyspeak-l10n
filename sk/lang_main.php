@@ -833,7 +833,7 @@ $lang['Avatar_filesize'] = "Veľkosť obrázka avatara musí byť menšia ako %d
 $lang['Avatar_imagesize'] = "Avatar musí byť užší ako %d pixelov a nižší ako %d pixelov.";
 $lang['Status_date_error'] = "Zmena statusu je ďaleko v budúcnosti!";
 
-$lang['Welcome_subject'] = "Vítame vás na stránke pre automatizáciu Toastmasters, %s"; // Welcome to my.com Toastmaster Automation
+$lang['Welcome_subject'] = "Vítame vás na stránke pre automatizáciu činností Toastmasters, %s"; // Welcome to my.com Toastmaster Automation
 $lang['New_account_subject'] = "Nový používateľský účet";
 $lang['Account_activated_subject'] = "Účet bol aktivovaný.";
 
