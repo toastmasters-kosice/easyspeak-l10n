@@ -10,7 +10,7 @@ Subject: {CLUBNAME} - Zadaná nominácia
 <br>&nbsp;&nbsp;Správne telefónne čísla a adresy a
 <br>&nbsp;&nbsp;Uvedené účty pre Skype alebo iné služby na posielanie správ, ktoré používate
 <br>
-<br>Nezabudnite si nastaviť vaše voľby súkromia, aby ste umožnili Toastmastrom mimo vášho domáceho klubu spojiť sa s vami.
+<br>Nezabudnite si nastaviť vaše predvoľby súkromia, aby ste umožnili Toastmastrom mimo vášho domáceho klubu spojiť sa s vami.
 <br>
 <hr>Veľa šťastia vo vašej kampani
 <br>{EMAIL_SIG}

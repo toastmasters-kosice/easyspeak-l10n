@@ -60,7 +60,7 @@ Subject: {CLUBNAME} - Pridaný do easy-Speaku na {SERVER_NAME}
 <br>&nbsp;&nbsp;  <a href="{SERVER_URL}/kb.php?mode=article&k=32">Vytvorenie nového podujatia:</a>
 <br>&nbsp;&nbsp;  <a href="{SERVER_URL}/kb.php?mode=article&k=50">Pridanie používateľa do systému:</a>
 <br>&nbsp;&nbsp;  <a href="{SERVER_URL}/kb.php?mode=article&k=45">Ako si zarezervujem prejav pre nasledujúce stretnutie?</a>
-<br>&nbsp;&nbsp;  <a href="{SERVER_URL}/kb.php?mode=article&k=154">Sledovanie cien v oblasti líderstva</a>
+<br>&nbsp;&nbsp;  <a href="{SERVER_URL}/kb.php?mode=article&k=154">Sledovanie cien v oblasti vodcovstva</a>
 <br>&nbsp;&nbsp;  <a href="{SERVER_URL}/kb.php?mode=article&k=48">Priradenie prejavov na stretnutie:</a>
 <br>&nbsp;&nbsp;  <a href="{SERVER_URL}/kb.php?mode=article&k=35">Úprava agendy:</a>
 <br>&nbsp;&nbsp;  <a href="{SERVER_URL}/kb.php?mode=article&k=116">Zmena vedúcich pre váš klub:</a>
@@ -73,7 +73,7 @@ Subject: {CLUBNAME} - Pridaný do easy-Speaku na {SERVER_NAME}
 <br>
 <br>Systém pripomenie členovi, jeho mentorovi a VPE všetky roly na stretnutí, ktoré môžu
 <br>byť použité pre CL. Možno budete potrebovať nahrať históriu, aby to bolo
-<br>spoľahlivé, ale pokiaľ klub používa ako nástroj <a href="{SERVER_URL}/kb.php?mode=article&k=154">Tabuľku líderstva</a>, stojí to za námahu.
+<br>spoľahlivé, ale pokiaľ klub používa ako nástroj <a href="{SERVER_URL}/kb.php?mode=article&k=154">Tabuľku vodcovstva</a>, stojí to za námahu.
 <br>
 <br>Dajte mi, prosím, vedieť, ako vám to ide.
 <br>
