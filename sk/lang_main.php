@@ -185,7 +185,7 @@ $lang['Click_return_candidates'] = "Kliknite %ssem, aby ste sa vrátili k profil
 $lang['Click_return_conference'] = "Kliknite %ssem, aby ste sa vrátili na stránky konferencií%s";
 $lang['Click_ti_login'] = "Nezabudnite si aktualizovať vaše osobné údaje aj u Toastmasters International<br> Kliknite %ssem, aby ste sa prihlásili na webovej stránke TI%s";
 $lang['TI_login'] = "Prihlásiť sa na webovej stránke TI";
-$lang['TI_officer_manuals'] = "Prevziať príručky pre vedúcich klubov";
+$lang['TI_officer_manuals'] = "Stiahnuť príručky pre vedúcich klubov";
 $lang['Admin_panel'] = "Prejsť do Panelu pre správu";
 $lang['Club_admin_panel'] = "Ovládací panel klubu";
 $lang['Board_disable'] = "Prepáčte, ale táto stránka je v tejto chvíli uzavretá kvôli údržbe.  Skúste to, prosím, neskôr.";
@@ -713,10 +713,10 @@ $lang['Username_invalid'] = "Prepáčte, ale meno tohto používateľa obsahuje 
 $lang['Username_disallowed'] = "Prepáčte, ale takéto používateľské meno bolo zakázané.";
 $lang['Name_duplicate'] = "Už máme člena s menom %s. Prihláste sa alebo požiadajte o opätovné poslanie hesla.";
 $lang['Name_in_username'] = "Kvôli ochrane súkromia nesmiete použiť vaše celé priezvisko ako súčasť používateľského mena.";
-$lang['Forget_me_explain'] = "Využívam moje 'právo byť zabudnutý' a požadujem, aby boli všetky informácie o mne vymazané zo systému easy-Speak.
-\t<br />Rozumiem, že sa týmto vymažú <b>VŠETKY</b> údaje o mne, vrátane môjho členstva v ktoromkoľvek klube a všetky minulé aj budúce roly.
+$lang['Forget_me_explain'] = "Využívam moje 'právo byť zabudnutý' a požadujem, aby boli všetky informácie o mne odstránené zo systému easy-Speak.
+\t<br />Rozumiem, že sa týmto odstránia <b>VŠETKY</b> údaje o mne, vrátane môjho členstva v ktoromkoľvek klube a všetky minulé aj budúce roly.
 \t<br /><br /><b>Tento úkon NIE JE MOŽNÉ vrátiť späť</b>. Pokiaľ si to rozmyslíte, budete sa musieť opätovne pripojiť do klubu a ručne zadať celú vašu históriu.";
-$lang['Forget_me'] = "Vymazať VŠETKY moje údaje";
+$lang['Forget_me'] = "Odstrániť VŠETKY údaje o mne";
 $lang['Disclose'] = "Zobraziť, čo všetko easy-Speak o mne vie";
 $lang['Email_taken'] = "Prepáčte, ale táto e-mailová adresa už je registrovaná u iného používateľa.";
 $lang['Email_banned'] = "Prepáčte, ale táto e-mailová adresa bola zablokovaná.";
@@ -806,7 +806,7 @@ $lang['Password_changed_email'] = "Oznámenie o zmene hesla";
 $lang['Password_change_action'] = " zmenil(a) vaše heslo ";
 $lang['Email_change_action'] = " zmenil(a) vašu emailovú adresu ";
 $lang['Privacy_prompt'] = "Už to je nejaký ten čas, odkedy ste si naposledy prezreli vaše osobné nastavenia, vrátane vašich predvolieb súkromia.<br>Tým, že udržiavate vaše osobné informácie aktuálne nám pomáhate lepšie chrániť váš účet.<br ><br >easy-Speak vám umožňuje vybrať si, či vaše meno a telefónne čísla uvidia ostatní členovia klubu alebo iba vedúci klubu a dištriktu.
-\t<br>Tiež môžete uplatniť vaše právo byť zabudnutý - tým dôjde k vymazaniu všetkých údajov o vás, vrátane členstva v ktoromkoľvek klube vedenom v easy-Speaku.";
+\t<br>Tiež môžete uplatniť vaše právo byť zabudnutý - tým dôjde k odstráneniu všetkých údajov o vás, vrátane členstva v ktoromkoľvek klube vedenom v easy-Speaku.";
 $lang['Privacy_click'] = "%sKliknite sem pre zobrazenie a úpravu vášho profilu%s, vrátane vašich predvolieb súkromia.<br><br>Váš profil môžete kedykoľvek zobraziť a upraviť po kliknutí na časť Profil v hornom menu.";
 $lang['Privacy_review'] = "Prezrite si svoje nastavenia súkromia a stlačte tlačidlo \"Uložiť\", čím vaše voľby potvrdíte.<br><br>Naša Politika súkromia je vždy dostupná z odkazu v dolnej časti každej stránky<br />a váš profil môžete kedykoľvek zobraziť a upraviť po kliknutí na časť Profil v hornom menu.";
 
