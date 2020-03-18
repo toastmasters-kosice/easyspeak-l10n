@@ -41,7 +41,7 @@ $faq[] = array("V minulosti som sa zaregistroval, ale už sa neviem viac prihlá
 $faq[] = array("--", "Toastmasters");
 $faq[] = array("Ako sa môžem pridať do klubu?", "Pozrite sa do kalendára alebo na mapu, aby ste si našli stretnutie blízko vás. Potom naňho kliknite, aby ste videli podrobnosti.
 <br />Pokiaľ ste registrovaní ako používateľ tejto stránky, môžete potom kliknúť na zoznam účastníkov a oznámiť, že máte záujem prísť na stretnutie. Očakávajte hrejivé privítanie. 
-<br />Pokiaľ máte otázky alebo potrebujete pred stretnutím pokyny, kliknite na meno správcu stretnutia (ľavá strana obrazovky), aby ste získali jeho telefónne číslo alebo mu poslali správu.");
+<br />Pokiaľ máte otázky alebo potrebujete pred stretnutím pokyny, kliknite na meno manažéra stretnutia (ľavá strana obrazovky), aby ste získali jeho telefónne číslo alebo mu poslali správu.");
 $faq[] = array("Ako sa dozviem viac?", "Množstvo informácií o Toastmasters a o tom, ako používať túto webovú stránku, nájdete v Báze znalostí. Vyberte si Bázu znalostí z menu a prehliadajte ju podľa kategórií alebo vyberte 'Hľadať', aby ste našli články s konkrétnymi slovami.");
 $faq[] = array("Kto napísal tento softvér a môže ho môj klub tiež použiť?", "Základnom všetkého je phpBB 'fórum' s množstvom doplnkov - viac informácií v dolnej časti týchto otázok a odpovedí.
 <br />

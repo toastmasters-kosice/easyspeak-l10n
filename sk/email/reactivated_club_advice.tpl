@@ -7,7 +7,7 @@ Subject: {CLUBNAME} - Reaktivovaný v easy-Speaku na {SERVER_NAME}
 <br>
 <br>V <a href="{SERVER_URL}/memberlist.php">zozname používateľov</a> máte členov, o ktorých už easy-Speak vie.
 <b<br>
-<br>U každého, kto už aktuálne nie je členom, použite ikonu pre úpravu vedľa jeho mena v zozname používateľov a zmeňte na karte 'Klub' jeho status na 'Bývalý člen'.
+<br>U každého, kto už aktuálne nie je členom, použite ikonu pre úpravu vedľa jeho mena v zozname používateľov a zmeňte na karte 'Klub' jeho postavenie na 'Bývalý člen'.
 <br>Potom už potrebujete IBA pridať nových ľudí - dajte si pozor, aby ste tam nikoho nemali dvakrát.&nbsp;&nbsp;<a href="{SERVER_URL}/kb.php?mode=article&k=50">Pridanie používateľa do systému:</a>
 <br>
 <br>Budete si môcť pridať vašich členov klubu a vedúcich tým, že si sami nahráte excelovskú tabuľku (dole).

@@ -1,0 +1,40 @@
+Riadok nula sa nepoužíva
+VPE môže plánovať vopred a prejavy naplánovať na niekoľko stretnutí naraz pomocou obrazovky Naplánovať prejavy. 
+VPE, manažér stretnutia - Poradie priradených rečníkov alebo hodnotiteľov môžete zmeniť kliknutím na modrú/červenú šípku na obrazovke view_meeting. Napríklad, keď kliknete na šípku pre prvého rečníka, zamení si priradenie s druhým rečníkom.
+Členovia - Na obrazovke profile_cc screen si môžete pozrieť prehľad vášho pokroku v rečnení a nastaviť osobné ciele (navigácia na ľavej strane > Moja účasť > Zobraziť môj pokrok v rečnení ALEBO cez horné menu > Moja účasť > Zobraziť môj pokrok v rečnení).
+Členovia - Na obrazovke profile_cl si môžete pozrieť prehľad vášho pokroku vo vodcovstve (navigácia na ľavej strane > Moja účasť > Zobraziť môj pokrok v CL|ALx ALEBO cez horné menu > Moja účasť > Zobraziť môj pokrok v CL|ALx).
+Vedeli ste, že môžete v Členských tabuľkách vidieť niekoľko prehľadov všetkých členov vášho klubu? Je ich tam niekoľko, vrátane: Rečnenie, Vodcovstvo, Osobné ciele, Mentorovanie.... (horné menu > Tento klub > [vyberte si prehľad] ).
+Keď sa pozeráte na Tabuľky klubu, môžete sa medzi rôznymi tabuľkami presúvať a usporadúvať ich pomocou výsuvného menu. Viete si ich tiež vytlačiť - napríklad tabuľka Rečnenie je dobrá, keď pracujete na Pláne úspechu klubu alebo návšteve guvernéra oblasti.
+Pokiaľ mentorujete iného člena, máte dodatočný prístup, aby ste si mohli pozrieť jeho pokrok v rečníckej a vodcovskej dráhe. Pozrite sa do Členských tabuliek a kliknite na ikonu pre úpravu alebo graf, aby ste videli viac.
+Členovia - Pozrite sa na záznamy, ktoré má o vás systém pre vaše CL. Pokiaľ nie je váš pokrok správne zaznamenaný, môžete si ho upraviť sami kliknutím na meno roly. Keď už ste všetko opravili, zoberte váš CL manuál k vášmu VPE, aby skontroloval systémové záznamy.
+VPE, manažér stretnutia - Tesne pred stretnutím si vytlačte správu 'Kontrolný zoznam'. Dostanete zoznam ľudí, ktorí môžu byť na tomto stretnutí hodnotení pre CL. Poverte niekoho vo vašom klube, aby skontroloval, že sa tak skutočne stalo a poznačte si to do správy, aby ste ho mohli použiť, keď budete zadávať skutočné hodnoty za stretnutie.
+Chcete sa pozrieť na vaše nedávne priradenia rolí? Kliknite na ikonu grafu vedľa vášho mena v zozname používateľov alebo Členských tabuľkách. Ak kliknete na túto ikonu na obrazovke view_agenda, uvidíte podrobnosti iba pre toto jedno stretnutie - ale keď už je vyskakovacie okno otvorené, môžete vybrať ďalšie zobrazenia. 
+Sú vaše osobné údaje v poriadku? Potrebujete zmeniť telefón alebo iné informácie? Kliknite na horné menu > Profil a popozerajte sa, či je všetko v poriadku.
+Používate na osobné účely Skype, LinkedIn, Facebook, Twitter, aboutMe, Yahoo! Messenger, MSN Messenger? Pre ostatných bude jednoduchšie sa s vami spojiť, ak ich pridáte do vášho profilu. Kliknite na horné menu > Profil, zaškrtnite políčko Pokročilé možnosti a popozerajte sa, či je všetko v poriadku. 
+Má váš klub stránky na Facebooku, LinkedIne, Twitteri, YouTube alebo Google+ ? Váš VPE alebo ID podpora by ich mali pridať v Ovládacom paneli klubu, aby sa zobrazovali na stránke s údajmi o vašom klube a portáli a aby vás ľudia jednoducho mohli sledovať.
+Členská anketa - Paul doplní slová
+Členská anketa - Paul doplní slová
+VPE - Sledujete pokrok na Schopného vodcu alebo Pokročilého vodcu u všetkých vašich členov? Prejdite na Tabuľku vodcovstva a kliknite na ikonu '+', čím začnete člena sledovať.
+Rozmýšľate o dovolenke? Použite prihlasovaciu obrazovku, aby ste vášmu VPE dali vedieť, že na týchto stretnutiach budete chýbať. Tiež tam môžete vidieť súhrn hlavných úloh na niekoľko stretnutí dopredu.
+Premýšľali ste, čo všetky tie tlačidlá robia? Presuňte nad ne vašu myš a zobrazí sa informačná bublina, ktorá vám dá všeobecné informácie!
+VPE, manažér stretnutia - potrebujete vidieť, ktorí členovia majú roly? Kliknite na odkaz 'Zobraziť počet rolí' na obrazovke view_meeting. Môžete tam meniť zobrazenie medzi počtom rolí na tomto stretnutí a dátumom poslednej účasti.
+Myslíte si, že budete meškať na stretnutie alebo nebudete môcť vziať konkrétnu rolu? Zanechajte VPE a manažérovi stretnutia správu kliknutím na odkaz 'Upraviť komentáre' a napísaním správy.
+VPE, manažér stretnutia - Premýšľali ste, prečo sa niektorá položka nevytlačí na Súhrnnej agende? Použite tlačidlo edit_agenda a skontrolujte si nastavenia výpisu pre túto položku.
+Čas súťaže - Vedeli ste, že môžete skryť mená porotcov? Len sa uistite, že máte správne nastavenie pre túto rolu v Ovládacom paneli klubu a jediní ľudia, ktorí uvidia mená, budú vedúci s povolením priradzovať role na tomto stretnutí.
+Premýšľali ste, prečo sa u vášho normálneho stretnutia klubu zobrazuje v hornej časti view_meeting obrazovky slovo 'Súťaž'? Je to preto, že ste do agendy pridali rolu, ktorá je definovaná ako 'Iba pre súťaž'. Rola Spočítavač hlasov je jedna z populárnych, kde sa to stáva - ak váš klub používa Spočítavača hlasov na každom jednom stretnutí, mali by ste ísť do Ovládacieho panelu klubu a zmeniť rolu, aby NEBOLA 'Iba pre súťaž'.
+Aký je rozdiel v prezentácii na obrazovke a vytlačenej agende medzi súťažou a bežným stretnutím klubu? Podrobnosti o prejave sú vždy pri súťaži skryté, takže vaši členovia klubu môžu spraviť prejav z manuálu a dostať písomné hodnotenie, ale diváci sa o tom nikdy nedozvedia.
+VPE môže plánovať vopred a prejavy naplánovať na niekoľko stretnutí naraz pomocou obrazovky Naplánovať prejavy.
+VPE, manažér stretnutia - Poradie priradených rečníkov alebo hodnotiteľov môžete zmeniť kliknutím na modrú/červenú šípku na obrazovke view_meeting. Napríklad, keď kliknete na šípku pre prvého rečníka, zamení si priradenie s druhým rečníkom.
+Členovia - Na obrazovke profile_cc screen si môžete pozrieť prehľad vášho pokroku v rečnení a nastaviť osobné ciele (navigácia na ľavej strane > Moja účasť > Zobraziť môj pokrok v rečnení ALEBO cez horné menu > Moja účasť > Zobraziť môj pokrok v rečnení).
+Členovia - Na obrazovke profile_cl si môžete pozrieť prehľad vášho pokroku vo vodcovstve (navigácia na ľavej strane > Moja účasť > Zobraziť môj pokrok v CL|ALx ALEBO cez horné menu > Moja účasť > Zobraziť môj pokrok v CL|ALx).
+Vedeli ste, že môžete v Členských tabuľkách vidieť niekoľko prehľadov všetkých členov vášho klubu? Je ich tam niekoľko, vrátane: Rečnenie, Vodcovstvo, Osobné ciele, Mentorovanie.... (horné menu > Tento klub > [vyberte si prehľad] ).
+Keď sa pozeráte na Tabuľky klubu, môžete sa medzi rôznymi tabuľkami presúvať a usporadúvať ich pomocou výsuvného menu. Viete si ich tiež vytlačiť - napríklad tabuľka Rečnenie je dobrá, keď pracujete na Pláne úspechu klubu alebo návšteve guvernéra oblasti.
+Pokiaľ mentorujete iného člena, máte dodatočný prístup, aby ste si mohli pozrieť jeho pokrok v rečníckej a vodcovskej dráhe. Pozrite sa do Členských tabuliek a kliknite na ikonu pre úpravu alebo graf, aby ste videli viac.
+ 
+
+
+
+
+
+
+
