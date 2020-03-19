@@ -1,6 +1,5 @@
-[![License: GNU General Public License 2.0](https://img.shields.io/badge/license-GPL%202.0-blue)][GPL-2.0]
-
 # easy-Speak Localization
+[![License: GNU General Public License 2.0](https://img.shields.io/badge/license-GPL%202.0-blue)](LICENSE)
 
 This repository contains [English](en_GB) and [Slovak](sk_SK) language files for easy-Speak, which is a Toastmaster automation platform based on [phpBB](https://www.phpbb.com/).
 
@@ -21,4 +20,4 @@ If you want to translate easy-Speak, feel free to contact Vladimír Záhradník 
 Please remember we all do this as volunteers. Our responses may be delayed, but we'll gladly help!
 
 ## License
-Because easy-Speak is based on [phpBB](https://www.phpbb.com/), we need to keep the project license for our derived works. Files are therefore licensed under [GNU General Public License 2.0][license.md] license.
+Because easy-Speak is based on [phpBB](https://www.phpbb.com/), we need to keep the project license for our derived works. Files are therefore licensed under [GNU General Public License 2.0](LICENSE) license.
