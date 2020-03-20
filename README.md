@@ -1,12 +1,12 @@
 # easy-Speak Localization
 [![License: GNU General Public License 2.0](https://img.shields.io/badge/license-GPL%202.0-blue)](LICENSE)
 
-This repository contains [English](en_GB) and [Slovak](sk_SK) language files for easy-Speak, which is a Toastmaster automation platform based on [phpBB](https://www.phpbb.com/).
+This repository contains [English](en_US) and [Slovak](sk_SK) language files for easy-Speak, which is a Toastmaster automation platform based on [phpBB](https://www.phpbb.com/).
 
 ## Note to translators
 If you'd like to create a new translation for easy-Speak you have two options:
 - Contact easy-Speak developers who set up an environment for you to do the translation through an easy-Speak UI. It's the official and recommended approach. On the other hand, developers get requests to add a new language only once in a few years, and it takes time for them to figure all steps out. Also, this tool is not entirely user-friendly.
-- Alternatively, download this repository, create a new directory (e.g., `cs_CZ`), copy files either from [en_GB](en_GB) or [sk_SK](sk_SK), and do the translation. Then send a zipped archive to the developers who, in turn, set up a testing environment for your language. As an advantage, you can use whatever tool to do the translation, like [Weblate](https://weblate.org/). Note that lines in the exported translated file may be out-of-order, which is alright as far as all strings are there. easy-Speak files contain several duplicate string and/or empty strings which the translation tool ignores. We advise checking the resulting file manually. However, you can directly translate these files in any text editor.
+- Alternatively, download this repository, create a new directory (e.g., `cs_CZ`), copy files either from [en_US](en_US) or [sk_SK](sk_SK), and do the translation. Then send a zipped archive to the developers who, in turn, set up a testing environment for your language. As an advantage, you can use whatever tool to do the translation, like [Weblate](https://weblate.org/). Note that lines in the exported translated file may be out-of-order, which is alright as far as all strings are there. easy-Speak files contain several duplicate string and/or empty strings which the translation tool ignores. We advise checking the resulting file manually. However, you can directly translate these files in any text editor.
 
 If you decide to translate files from this repository, feel free to reach out so that we can add your translation here as a backup. easy-Speak code is not publicly available, and we don't know how well it is protected against data losses or corruption. Most likely, you don't want to lose your work.
 
