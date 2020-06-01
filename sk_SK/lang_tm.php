@@ -1145,7 +1145,7 @@ $lang['Not_attend'] = "<font color=#FF0000><b>NEBUDEM</b></font> na %s stretnut�
 $lang['Look_agenda'] = "Zobraziť alebo vytlačiť agendu pre %s stretnutie.";
 $lang['Yes_attending'] = "Ďakujeme, že ste nám oznámili, že prídete na toto stretnutie.";
 $lang['No_reply'] = "Webová stránka ešte nezobrazuje odpoveď na môj e-mail z";
-$lang['Old_reply'] = "Toto je zdvorilostná správa, aby sme vám pripomenuli, že ste už prijali túto rolu (v";
+$lang['Old_reply'] = "Toto je zdvorilostná správa, aby sme vám pripomenuli, že ste už prijali túto rolu (o";
 $lang['No_role'] = "Nateraz sme vám nepriradili rolu";
 $lang['Volunteer_role'] = "ale sledujte webovú stránku a dobrovoľne sa prihláste, pokiaľ bude rola k dispozícii.";
 $lang['Vacant_roles'] = "Ešte sú voľné niektoré roly, ktoré je potrebné obsadiť. Ak sa chcete k nejakej dobrovoľne prihlásiť, %skliknite tu.%s";
