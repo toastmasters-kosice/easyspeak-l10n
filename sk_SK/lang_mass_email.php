@@ -10,8 +10,8 @@ $lang['Mass_email_total']= "Celkovo poslané %d používateľom na %d e-mailov";
 $lang['Mass_email_wrong']= "<b>POZOR</b> nasledujúci používatelia majú trvalé chyby v ich e-mailových adresách. Kontaktujte ich, aby si ich opravili <br/> %s";
 $lang['Mass_email_none'] = "V tejto skupine nie sú žiadni používatelia s platnou e-mailovou adresou.";
 
-$lang['Sendt_to']= "Toto je zoznam používateľov, ktorí%s ktorým bol poslaný e-mail v jazyku %s"; //%s is substituted with 'replied' etc and the users language
-$lang['Send1_to']= "Toto je zoznam používateľov, ktorým bol poslaný e-mail v jazyku %s"; //%s is substituted with the users language
+$lang['Sendt_to']= "Toto je zoznam používateľov, ktorí%s a poslali sme im e-mail v jazyku %s"; //%s is substituted with 'replied' etc and the users language
+$lang['Send1_to']= "Toto je zoznam používateľov, ktorým sme poslali e-mail v jazyku %s"; //%s is substituted with the users language
 $lang['Mass_email_explain'] = "Tu môžete vytvoriť správu pre všetkých používateľov konkrétnej skupiny. Všetkým príjemcom sa pošle e-mail so slepou kópiou. <br/>Ak posielate e-mail veľkej skupine ľudí, majte po odoslaní trpezlivosť a nezastavujte stránku v polovici. Je normálne, že posielanie hromadných e-mailov trvá dlho. O tom, že skript skončil, budete informovaní.<br />E-mail sa posiela v dávkach.";
 $lang['Compose'] = "Napísať";
 
