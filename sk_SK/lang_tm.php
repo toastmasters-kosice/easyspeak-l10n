@@ -1140,8 +1140,8 @@ $lang['Replied']['2'] = " sa nezúčastnia na stretnutí";
 $lang['Replied']['5'] = " ešte nevedia, či sa zúčastnia na stretnutí";
 $lang['A_mail_nothing'] = "Žiadny e-mail na odoslanie";
 $lang['No_volunteer'] = "Nastavenia klubu neumožňujú používateľom byť dobrovoľníkmi on-line.";
-$lang['Can_attend'] = "<b>BUDEM</b> na %s stretnutí";
-$lang['Not_attend'] = "<font color=#FF0000><b>NEBUDEM</b></font> na %s stretnutí";
+$lang['Can_attend'] = "<b>BUDEM</b> na stretnutí dňa %s";
+$lang['Not_attend'] = "<font color=#FF0000><b>NEBUDEM</b></font> na stretnutí dňa %s";
 $lang['Look_agenda'] = "Zobraziť alebo vytlačiť agendu pre %s stretnutie.";
 $lang['Yes_attending'] = "Ďakujeme, že ste nám oznámili, že prídete na toto stretnutie.";
 $lang['No_reply'] = "Webová stránka ešte nezobrazuje odpoveď na môj e-mail z";
@@ -1155,7 +1155,7 @@ $lang['Unsub_2'] = "Vedzte však, že sa tým tiež zruší vaše členstvo v %s
 $lang['Assign_role'] = "Priradil(a) %ssom vám rolu '%s'.";
 $lang['Assign_m_role'] = "Vezmite, prosím, na vedomie, že som na tomto stretnutí %spriradil(a) %s rolu '%s'.";
 $lang['Vacant_roles_n'] = "Ešte sú voľné niektoré roly, ktoré je potrebné obsadiť. Ak sa chcete k nejakej dobrovoľne prihlásiť, pošlite mi e-mail alebo mi zavolajte.";
-$lang['Dear'] = "Vážený (-á)";
+$lang['Dear'] = "Vážený(-á)";
 $lang['Accept_role'] = "PRIJÍMAM rolu '%s'";
 $lang['Decline_role'] = "ODMIETAM rolu '%s'";
 $lang['Provisional'] = "predbežne "; // Leave the blank at the end!
